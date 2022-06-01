@@ -3,3 +3,28 @@ body {
   height: 100%;
   margin: 0;
 }
+h1 {
+  text-align: center;
+}
+header{
+  margin: 0px;
+  padding: 10px;
+  text-align: center;
+
+ 
+}
+img{
+  margin: 20px;
+  padding-left:100px;
+}
+#featured-property{
+  text-align: center;
+  font-size:13px;
+  
+}
+div{
+  float:left;
+  background: red;
+  width: 25%;
+ list-style-type: none;
+}
